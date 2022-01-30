@@ -1,4 +1,4 @@
-it's a react class base component base app
+it's a react class base component app
 
 
 
